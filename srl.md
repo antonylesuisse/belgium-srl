@@ -192,13 +192,13 @@ l'acte constitutif mentionne les données suivantes:
 >
 > ### Fondateurs
 >
-> Le(s) comparant(s) déclare(nt) que les capitaux propres de départ sont d'un montant de **[ACTIONS: 840]** EUR <a name="2:8.2.5" href="#2:8.2.5-toc">(2:8 § 2 5°)</a>, les actions sont souscrites en espèces par les fondateurs, au sens du Code des sociétés et associations, comme suit <a name="2:8.2.4" href="#2:8.2.4-toc">(2:8 § 2 4°)</a>, <a name="2:8.2.6" href="#2:8.2.6-toc">(2:8 § 2 6°)</a>:
+> Le(s) fondateur(s) a/ont remis au notaire un plan financier, qui justifie les capitaux propres de départ de la société. Le notaire les a informés de la responsabilité des fondateurs si les capitaux propres de départ sont manifestement insuffisants pour l'activité prévue prévue pendant une période d'au moins deux ans et que la société fait faillite dans les 3 ans suivant sa constitution.
+>
+> Les capitaux propres de départ sont d'un montant de **[ACTIONS: 840]** EUR <a name="2:8.2.5" href="#2:8.2.5-toc">(2:8 § 2 5°)</a>, les actions sont souscrites en espèces par les fondateurs, au sens du Code des sociétés et associations, comme suit <a name="2:8.2.4" href="#2:8.2.4-toc">(2:8 § 2 4°)</a>, <a name="2:8.2.6" href="#2:8.2.6-toc">(2:8 § 2 6°)</a>:
 >
 > - par Monsieur **[NOM1: Dupont Pierre]**, à hauteur de **[ACTIONS1: 840]** actions pour un apport de **[ACTIONS1: 840]** EUR;
 >
-> Il(s) déclarent qu’en application de la faculté prévue à l’article 5:8 du Code des sociétés et des associations, aucun versement ne doit encore être effectué sur les actions au moment de la constitution.
->
-> Le(s) fondateur(s) a/ont remis au notaire un plan financier, qui justifie les capitaux propres de départ de la société. Le notaire les a informés de la responsabilité des fondateurs si les capitaux propres de départ sont manifestement insuffisants pour l'activité prévue prévue pendant une période d'au moins deux ans et que la société fait faillite dans les 3 ans suivant sa constitution.
+> Le(s) fondateur(s) déclarent qu’en application de la faculté prévue à l’article 5:8 du Code des sociétés et des associations, aucun versement ne doit encore être effectué sur les actions au moment de la constitution.
 >
 > Le(s) comparant(s) demande(nt) au notaire d'acter la constitution d'une société ayant les statuts suivants:
 >
@@ -275,7 +275,7 @@ Formulaire en ligne <a href="http://eservices.minfin.fgov.be/VAT001/">Formulaire
 
 ## 5. Registre d'actionnaire.
 
-Noter dans un registre d'actionnaire papier les participations de chaque actionnaire. Eensuite enregistrer les bénéficiaires dans le registre UBO.
+Noter dans un registre d'actionnaire papier les participations de chaque actionnaire. Ensuite enregistrer les bénéficiaires dans le registre UBO.
 
 ## Frais et démarches recurrentes
 
