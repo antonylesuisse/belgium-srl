@@ -186,19 +186,24 @@ l'acte constitutif mentionne les données suivantes:
 > Le(s) comparant(s) declare(nt):
 >
 > - confirmer que le notaire a lu tout ce qui précède dans sa totalité.
-> - démontrer leur identité par un moyen d'identification électronique conforme à la norme eIDAS élevée.
-> - que ses/leurs données d'identité sont complètes et correctes.
-> - être capable et compétent pour accomplir les actes juridiques constatés dans cet acte et ne pas être sous l'effet d'une mesure qui entraîne une incapacité.
+> - déclarer que ses données d'identité sont complètes et correctes.
+> - déclarer être capable et compétent pour accomplir les actes juridiques constatés dans cet acte et ne pas être sous l'effet d'une mesure qui entraîne une incapacité.
+>
+> Le notaire soussigné certifie les nom, prénoms, lieu et date de naissance du comparant au vu des pièces officielles requises par la loi.
 >
 > ### Fondateurs
 >
-> Le(s) fondateur(s) a/ont remis au notaire un plan financier, qui justifie les capitaux propres de départ de la société. Le notaire les a informés de la responsabilité des fondateurs si les capitaux propres de départ sont manifestement insuffisants pour l'activité prévue prévue pendant une période d'au moins deux ans et que la société fait faillite dans les 3 ans suivant sa constitution.
+> Le(s) comparant(s) déclare(nt) que les actions sont souscrites en espèces par les fondateurs, au sens du Code des sociétés et associations, comme suit <a name="2:8.2.4" href="#2:8.2.4-toc">(2:8 § 2 4°)</a>, <a name="2:8.2.6" href="#2:8.2.6-toc">(2:8 § 2 6°)</a>:
 >
-> Les capitaux propres de départ sont d'un montant de **[ACTIONS: 840]** EUR <a name="2:8.2.5" href="#2:8.2.5-toc">(2:8 § 2 5°)</a>, les actions sont souscrites en espèces par les fondateurs, au sens du Code des sociétés et associations, comme suit <a name="2:8.2.4" href="#2:8.2.4-toc">(2:8 § 2 4°)</a>, <a name="2:8.2.6" href="#2:8.2.6-toc">(2:8 § 2 6°)</a>:
+> - par Monsieur Antony Lesuisse, à hauteur de **[ACTIONS1: huit cent quarante 840]** actions pour un apport de **[ACTIONS2: huit cent quarante euros (€ 840,00)]**.
 >
-> - par Monsieur **[NOM1: Dupont Pierre]**, à hauteur de **[ACTIONS1: 840]** actions pour un apport de **[ACTIONS1: 840]** EUR;
+> Il(s) déclare(nt) qu’en application de la faculté prévue à l’article 5:8 du Code des sociétés et des associations, aucun versement ne doit encore être effectué sur les actions au moment de la constitution.
 >
-> Le(s) fondateur(s) déclarent qu’en application de la faculté prévue à l’article 5:8 du Code des sociétés et des associations, aucun versement ne doit encore être effectué sur les actions au moment de la constitution.
+> Les capitaux propres de départ sont d'un montant de **huit cent quarante euros [ACTIONS2: 840] EUR** <a name="2:8.2.5" href="#2:8.2.5-toc">(2:8 § 2 5°)</a>.
+>
+> Le(s) fondateur(s) a(ont) remis son plan financier, qui justifie les capitaux propres de départ de la société, au notaire.
+>
+> Le notaire les a informés de la responsabilité des fondateurs si les capitaux propres de départ sont manifestement insuffisants pour l'activité prévue pendant une période d'au moins deux ans et que la société fait faillite dans les 3 ans suivant sa constitution.
 >
 > Le(s) comparant(s) demande(nt) au notaire d'acter la constitution d'une société ayant les statuts suivants:
 >
@@ -228,9 +233,9 @@ l'acte constitutif mentionne les données suivantes:
 >
 > La nomination d'un administrateur non statutaire pour une durée illimitée: **[NOM1: Dupont Pierre]** <a name="2:8.2.10" href="#2:8.2.10-toc">(2:8 § 2 10°)</a>.
 >
-> Le montant total des frais qui incombent à la société à raison de sa constitution est approximativement de 500EUR <a name="5:12.7" href="#5:12.7-toc">(5:12 7°)</a>.
+> Le montant total des frais qui incombent à la société à raison de sa constitution est approximativement de 457,30EUR <a name="5:12.7" href="#5:12.7-toc">(5:12 7°)</a>.
 >
-> Ce montant comprend entre autres le droit d'écriture s'élèvant à nonante-cinq euros (95,00 EUR), les droits d'enregistrement à cinquante (50EUR), les honoraires legaux du notaire à quarante-deux euros dix-huit centimes (42,18 EUR), les frais de publication au Moniteur belge à deux cent trente et un euros septante-deux cents (€ 231,72), la TVA et frais administratifs.
+> Ce montant comprend entre autres le droit d'écriture s'élèvant à nonante-cinq euros (95,00 EUR), les droits d'enregistrement à cinquante (50EUR), les honoraires legaux du notaire à quarante-deux euros dix-huit centimes (42,18 EUR), les frais de publication au Moniteur belge à deux cent quarante et un euros vingt-sept cents (€ 241,27), la TVA et frais administratifs.
 >
 > Le(s) fondateur(s) déclare(nt) avoir reçu et lu en temps utile un projet du présent acte, et reconnaît (ssent) que le notaire a attiré son/leur attention sur le droit de (chacun d'eux) de désigner un autre notaire ou de se faire assister par un conseil, en particulier quand l'existence d'intérêts contradictoires ou d'engagements disproportionnés est constatée.
 >
@@ -240,7 +245,7 @@ l'acte constitutif mentionne les données suivantes:
 
 Localiser un notaire disponible et fixer un rendez vous en ligne en allant sur <a href="https://www.notaire.be/notaire/recherchez/1000"/>la liste des notaires</a> en remplissant un code postale et selectionner parmis ceux qui ont l'option "Disponible pour rendez-vous en ligne", et qui ont des disponibilités. Dans les commentaires vous pouvez mentionner: <a href="https://www.ejustice.just.fgov.be/cgi_loi/change_lg_2.pl?language=fr&nm=1803031601&la=F">Art. 3. de la loi du 25 ventôse an XI.</a>
 
-> Mon projet d'acte de constitution est complet, et vous a été communiqué via la plateforme startmybusiness. Je requiert donc l'exercice de votre ministère, au sens de l'art 3. de la loi du 25 ventôse an XI lors du rendez-vous.
+> Mon projet d'acte de constitution est complet, et vous a été communiqué via la plateforme startmybusiness. Je requiert donc l'exercice de votre ministère, au sens de l'art 3. de la loi du 25 ventôse de l'an XI lors du rendez-vous.
 
 Ensuite remplissez les informations sur le site <a href="https://startmybusiness.be/">startmybusiness.be</a> en selectionnant le meme notaire, attention aux bugs suivants sur le site:
 
