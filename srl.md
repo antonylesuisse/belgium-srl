@@ -280,7 +280,7 @@ Formulaire en ligne <a href="http://eservices.minfin.fgov.be/VAT001/">Formulaire
 
 ## 5. Registre d'actionnaire.
 
-Noter dans un registre d'actionnaire papier les participations de chaque actionnaire. Ensuite enregistrer les bénéficiaires dans le registre UBO.
+Noter dans un registre d'actionnaire papier les participations de chaque actionnaire. Ensuite enregistrer les bénéficiaires dans le registre <a href="https://finances.belgium.be/fr/E-services/ubo-register">UBO</a>.
 
 ## Frais et démarches recurrentes
 
